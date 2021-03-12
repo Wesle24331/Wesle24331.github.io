@@ -1,0 +1,29 @@
+* {
+  font-family: Courier;
+}
+
+div {
+  border-style: solid;
+  margin: 7px;
+  padding: 6px;
+}
+
+#content {
+  background-color: cyan;
+}
+
+#headerBox {
+  background-color: white;
+}
+
+#linksBox {
+  background-color: white;
+}
+
+#parasBox {
+  background-color: cyan;
+}
+
+.para {
+  background-color: white;
+}
